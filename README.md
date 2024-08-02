@@ -5,6 +5,6 @@
 -->
 
 - 🔭 I’m currently working on Windows , Linux , Android
-- 🌱 I’m currently learning build AOSP and CyberSecurity , C++ and Java
+- 🌱 I’m currently learning build AOSP and Network System, C++ and Java
 
 
