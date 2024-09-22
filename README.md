@@ -9,7 +9,7 @@
 
 ### :fire: My Stats :
 ![nhuuhuy634's Stats](https://github-readme-stats.vercel.app/api?username=nhuuhuy634&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-### :fire: My Language
+### :fire: Most Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhuuhuy634&layout=compact)
 
 ---
