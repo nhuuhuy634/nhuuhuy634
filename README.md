@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning build AOSP and Network System, C++ and Java
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhuuhuy634&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![<nhuuhuy634>'s Stats](https://github-readme-stats.vercel.app/api?username=<nhuuhuy634>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ### :fire: My Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhuuhuy634&layout=compact)
 
